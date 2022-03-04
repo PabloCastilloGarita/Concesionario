@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648630022726",
+    "project_id": "concesionario-f11ca",
+    "storage_bucket": "concesionario-f11ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648630022726:android:afc4795d4dc53808ddd047",
+        "android_client_info": {
+          "package_name": "com.concesionario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648630022726-utjuop71fbmfddm5et8iqkk5jt094vt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHaWEKHilPm0SUTzUxOZlEwGB7alepxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648630022726-utjuop71fbmfddm5et8iqkk5jt094vt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
