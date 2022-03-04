@@ -18,15 +18,15 @@ class ConcesionarioViewModel(application: Application) : AndroidViewModel(applic
         getAllData = repository.getAllData
     }
 
-     fun addLugar(concesionario: Concesionario) {
+     fun addConcesionario(concesionario: Concesionario) {
         viewModelScope.launch(Dispatchers.IO) {repository.addConcesionario(concesionario)}
     }
 
-     fun updateLugar(concesionario: Concesionario) {
+     fun updateConcesionario(concesionario: Concesionario) {
          viewModelScope.launch(Dispatchers.IO) {repository.updateConcesionario(concesionario)}
     }
 
-     fun deleteLugar(concesionario: Concesionario) {
+     fun deleteConcesionario(concesionario: Concesionario) {
          viewModelScope.launch(Dispatchers.IO) {repository.deleteConcesionario(concesionario)}
     }
 }

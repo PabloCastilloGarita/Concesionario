@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/pcast/OneDrive/Escritorio/Cuatrimestre VII/ProyectoMovil/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/pcast/OneDrive/Escritorio/Cuatrimestre VII/ProyectoMovil/app/src/main/res/layout/app_bar_principal.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/pcast/OneDrive/Escritorio/Cuatrimestre VII/ProyectoMovil/app/src/main/res/layout/carro_fila.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/pcast/OneDrive/Escritorio/Cuatrimestre VII/ProyectoMovil/app/src/main/res/layout/content_principal.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/pcast/OneDrive/Escritorio/Cuatrimestre VII/ProyectoMovil/app/src/main/res/layout/fragment_add_concesionario.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/pcast/OneDrive/Escritorio/Cuatrimestre VII/ProyectoMovil/app/src/main/res/layout/fragment_concesionario.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/pcast/OneDrive/Escritorio/Cuatrimestre VII/ProyectoMovil/app/src/main/res/menu/activity_main_drawer.xml" value="0.22447916666666667" />
       </map>

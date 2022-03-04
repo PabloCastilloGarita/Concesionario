@@ -21,4 +21,18 @@
     <string name="menu_concesionario">Concesionario de Carros</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="msg_modelo">Modelo del Carro</string>
+    <string name="msg_año">Año del Carro</string>
+    <string name="msg_marca">Marca del Carro</string>
+    <string name="msg_motor">Motor del Carro</string>
+    <string name="msg_precio">Precio del Carro</string>
+    <string name="msg_cantidadAsientos">Cantidad de asientos del Carro</string>
+    <string name="msg_tipoCajaCambios">Tipo de caja de cambios del Carro</string>
+    <string name="msg_telefono">Telefono del Carro</string>
+
+    <string name="msg_concesionario_add">Carro Agregado</string>
+    <string name="bt_add_concesionario">Agregar Carro</string>
 </resources>

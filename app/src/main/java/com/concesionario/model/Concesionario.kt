@@ -12,23 +12,19 @@ data class Concesionario(
     @PrimaryKey(autoGenerate = true)
     val id: Int,
     @ColumnInfo(name = "modelo")
-    val modelo: String,
+    val modelo: String?,
     @ColumnInfo(name = "año")
-    val año: Int,
+    val año: Int?,
     @ColumnInfo(name = "marca")
-    val marca: String,
+    val marca: String?,
     @ColumnInfo(name = "motor")
-    val motor: String,
+    val motor: String?,
     @ColumnInfo(name = "precio")
-    val precio: Double,
+    val precio: Double?,
     @ColumnInfo(name = "cantidadAsientos")
-    val cantidadAsientos: Int,
+    val cantidadAsientos: Int?,
     @ColumnInfo(name = "tipoCajaCambios")
-    val tipoCajaCambios: String,
-    @ColumnInfo(name = "telefono")
-    val telefono: String,
-    @ColumnInfo(name = "ubicacion")
-    val ubicacion: String,
-    @ColumnInfo(name = "sitioWeb")
-    val sitioWeb: String
+    val tipoCajaCambios: String?,
+    @ColumnInfo(name = "rutaImagen")
+    val rutaImagen: String?,
 ) : Parcelable
